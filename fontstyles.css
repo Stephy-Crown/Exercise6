@@ -1,0 +1,13 @@
+.font{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 50px;
+  font-weight: 600;
+}
+.style{
+  font-family: 'Montserrat', sans-serif;
+  font-weight:lighter;
+}
+.Delivery{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: underline;
+}
